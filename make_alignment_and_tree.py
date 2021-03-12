@@ -29,7 +29,9 @@ from ete3 import Tree, TreeStyle, AttrFace, TextFace, NodeStyle, SequenceFace, I
 # cd /usr/lib/x86_64-linux-gnu/
 # sudo ln -s  openmpi/lib/libmpi.so.20.10.1 libmpi.so.12
 #
-
+# On a headless server, you need the xvfb package and run the script like this:
+# xvfb-run ./make_alignment_and_tree.py
+#
 def do_alignment(infile, outfile):
     execute_subprocess(
         'Generating multiple sequence alignment with the following command:',
