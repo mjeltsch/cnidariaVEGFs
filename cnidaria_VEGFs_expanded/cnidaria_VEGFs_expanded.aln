@@ -1,0 +1,116 @@
+CLUSTAL FORMAT for T-COFFEE Version_11.00.8cbe486 [http://www.tcoffee.org] [MODE: mcoffee ], CPU=0.00 sec, SCORE=850, Nseq=26, Len=185 
+
+BMA-PVF-1                                         TADVSSLAILRTIRQGEDTCE-LQKACIPILPENPDP-GL--LI-FPKCY
+VEGF Podocoryna carnea _AAS79435.1_            AIASDPSAGTAPLLFTEYKCQ-PREAVVEIPVSS----EGA--L-WPACT
+VEGFC1 Pocillopora damicornis _XP027059384.1_  --------------LGNELCR-PRPTLVPIDDP-----EF--KF-FPYFV
+VEGFC2 Pocillopora damicornis _XP027050375.1_  NGVITTQLNNLPYIPSESHCK-PRPVAFRIPKSV----HV--RT-YPDYV
+VEGFC Acropora digitifera _XP015760784.1_      IQASLHGSSGGCHPVLSAHCS-PRPTYVRLPDPPF---GK--SY-FPKGV
+VEGFC Exaiptasia pallida _XP020907748.1_       TFYAYVNCIAHSFDSSHAMCK-PRLTVLQVDKE-F-SEKE--YV-YPYHI
+VEGFC1 Stylophora pistillata _XP022805345.1_   TTKWNPTKPTHTLSFYRFECR-PFPTMVELERPA----NE--DY-LPHTV
+VEGFC2 Stylophora pistillata _XP022805359.1_   KGVITTKLNNPAYYPREAICQ-PRPVAVRIPKGP----HV--RS-FPDYV
+VEGFC1 Hydra vulgaris _XP002161567.1_          PKPGQSLDSSVSVEFTEYECA-IRPRVVDVDFVP----GYF--T-FPACI
+VEGFC2 Hydra vulgaris _XP002159836.1_          PKPGQSLDSSTSVEFTEYECA-IRPRIVDVDFVP----GYF--T-FPACI
+VEGFC3 Hydra vulgaris _XP012567141.1_          ---------EDVISLPNEECD-IRPMLINTDALNYK-------Y-YPLVV
+PDGFB Hydra vulgaris _XP002160342.2_           ESRESYMLGGLNAANDSPSCQ-LMQKFEQISKSKTD----SFIF-FPSCI
+VEGFC Homo sapiens                              AHYNTEILKSIDNEWRKTQCM-PREVCIDVGKEFGVATNTF--F-KPPCV
+VEGFA165 Homo sapiens                           GGQNHHEVVKFMDVYQRSYCH-PIETLVDIFQEYPDEIEY--IF-KPSCV
+PDGFB Homo sapiens                              RGRRSLGSLTIAEPAMIAECK-TRTEVFEISRRLIDRTNANFLV-WPPCV
+PDGFC Homo sapiens                              RKSRVVDLNLLTEEVRLYSCT-PRNFSVSIREEL-KRTDT--IF-WPGCL
+PVF2 Drosophila melanogaster _Q9VM43_          RELKKRVEAHRLMMAKEGICRVPRPEVVHITR---ET-NT--FYS-PRAT
+PVF1 Drosophila melanogaster _Q9VWP6_          ENFKRSIMKSTVRNATPASCS-PQPTIVELKPPAEDEANY--YY-MPACT
+PVF3 Drosophila melanogaster _Q9VM42_          KSERALAHAHMNQVLKEATCRIPQKRCQLVQQD----PSK--IY-TPHCT
+VEGFD Homo sapiens _O43915_                    TFYDIETLKVIDEEWQRTQCS-PRETCVEVASELGKSTNTF--F-KPPCV
+VEGFB17 Homo sapiens _P497652_                 APGHQRKVVSWIDVYTRATCQ-PREVVVPLTVELMGTVAK--QL-VPSCV
+PlGF3 Homo sapiens _P49763_                    NGSSEVEVVPFQEVWGRSYCR-ALERLVDVVSEYPSEVEH--MF-SPSCV
+PDGFD Homo sapiens _Q9GZP0_                    RKSKV-DLDRLNDDAKRYSCT-PRNYSVNIREEL-KLANV--VF-FPRCL
+PDGFA Homo sapiens _P04085_                    KRPLPIRRKRSIEEAVPAVCK-TRTVIYEIPRSQVDPTSANFLI-WPPCV
+PVF1 Caenorhabditis elegans _Q9N413_           GYTLFHLQSMKDIKQGNDTCN-LQSVCVPIPQLSDDP-QV--LM-YPKCY
+UNC129 Caenorhabditis elegans _G5EBY8_         ANEELANDVRVVLLQNKNRCH-KEGVLVSLKHF--GW-DR--YVIEPKTI
+                                                                     *                          *   
+
+BMA-PVF-1                                         EITQCI---GSCC------EFTEHCHPTSTEYIQQPIIEMLY-AGNNLFV
+VEGF Podocoryna carnea _AAS79435.1_            VMKQCG---GCCTHL-----QFKECVPTVLENIKATVMMIPY-DY-T---
+VEGFC1 Pocillopora damicornis _XP027059384.1_  KLHQCG---GSCD-H--IQPSVKSCIPLEYDEVSVTVQVVG---------
+VEGFC2 Pocillopora damicornis _XP027050375.1_  ILNRCT---GSCT----ANQETQHCAVTAQDAINVKIFEIVG-DQ-----
+VEGFC Acropora digitifera _XP015760784.1_      LIDQCS---GFCF-Y-----EGLTCLGVAFRNVTKDIFEITW-SDRNYG-
+VEGFC Exaiptasia pallida _XP020907748.1_       QVHQCG---GSCK----AHPSIQNCKPKTMHEVKIPLYDRK---------
+VEGFC1 Stylophora pistillata _XP022805345.1_   VLHRCL---GGCV----TTQQVQNCTVKRQEEVVLQVLHRLDHNK-----
+VEGFC2 Stylophora pistillata _XP022805359.1_   ILNRCT---GSCP----FNQEIEHCTVTERDAITVTIFELVG-NQ-----
+VEGFC1 Hydra vulgaris _XP002161567.1_          QVNECS---GCTTKS-----LIYKCVPDEQVNVTANVVDIDY-SG-G---
+VEGFC2 Hydra vulgaris _XP002159836.1_          QVNECS---GCTTKS-----LIYKCVPDEQVNVIANVVDIDY-SG-G---
+VEGFC3 Hydra vulgaris _XP012567141.1_          SLYRCS---GVCK-K--EKPSFRKCVSAVSTDIQLHVFNELL-E------
+PDGFB Hydra vulgaris _XP002160342.2_           KVNRCS---GCCN-T-----DVMECVALTNSSHV----------------
+VEGFC Homo sapiens                              SVYRCG---GCCN-S-----EGLQCMNTSTSYLSKTLFEITV-P-LS---
+VEGFA165 Homo sapiens                           PLMRCG---GCCN-D-----EGLECVPTEESNITMQIMRIK---------
+PDGFB Homo sapiens                              EVQRCS---GCCN-N-----RNVQCRPTQVQLRPVQVRKIEI-VRKK---
+PDGFC Homo sapiens                              LVKRCG---GNCA-CCLHNCNECQCVPSKVTKKYHEVLQLRP-K---T--
+PVF2 Drosophila melanogaster _Q9VM43_          ILHRCSDKVGCCN-------AGWTCQMKRNETVDRVFDKVDG-R-S----
+PVF1 Drosophila melanogaster _Q9VWP6_          RISRCN---GCCG------STLISCQPTEVEQVQLRVRKVDR-AATSG--
+PVF3 Drosophila melanogaster _Q9VM42_          ILHRCSEDSGCCP------SRSQICAAKSTHNVELHFFVKSS-KHR----
+VEGFD Homo sapiens _O43915_                    NVFRCG---GCCN-E-----ESLICMNTSTSYISKQLFEISV-P-LT---
+VEGFB17 Homo sapiens _P497652_                 TVQRCG---GCCP-D-----DGLECVPTGQHQVRMQILMIR---------
+PlGF3 Homo sapiens _P49763_                    SLLRCT---GCCG-D-----ENLHCVPVETANVTMQLLKIR---------
+PDGFD Homo sapiens _Q9GZP0_                    LVQRCG---GNCG-CGTVNWRSCTCNSGKTVKKYHEVLQFEP-GHIKR--
+PDGFA Homo sapiens _P04085_                    EVKRCT---GCCN-T-----SSVKCQPSRVHHRSVKVAKVEY-VRKK---
+PVF1 Caenorhabditis elegans _Q9N413_           EVKQCV---GSCC------NSVETCHPGTINLVKKHVAELLY-IGNGRFM
+UNC129 Caenorhabditis elegans _G5EBY8_         ETSFCK---GKCA------KPMLTSGKASNHAMLQSLFAA----------
+                                                      *    *              .                         
+
+BMA-PVF-1                                         I--------------NQTRNITVEQHTACSCRICTR-FG---A-AIQCPQ
+VEGF Podocoryna carnea _AAS79435.1_            --------------RPKLHTVSFVQHKECACQCR-L-KP---T-DCNPK-
+VEGFC1 Pocillopora damicornis _XP027059384.1_  -----T---------DEMRTTQVKNHTRCGCECV-H-GP---K-DCDLEL
+VEGFC2 Pocillopora damicornis _XP027050375.1_  ---------------PYITNTVIYNHTACGCDCI-T-KE---S-DCDPQK
+VEGFC Acropora digitifera _XP015760784.1_      -MSGSIAASAGLEMTSIPKQIVLKEPTQCQCGCA-K-TA---N-DCTSA-
+VEGFC Exaiptasia pallida _XP020907748.1_       -----T---------SLMTHVIIQNHTSCYCDCV-K-SP---M-DCRFDR
+VEGFC1 Stylophora pistillata _XP022805345.1_   V--------------FKPLKITVYNHTECACDCI-T-RQ---S-ECDVKI
+VEGFC2 Stylophora pistillata _XP022805359.1_   ---------------VHVVNTVLYNHTACSCDCI-A-KE---S-DCDPNK
+VEGFC1 Hydra vulgaris _XP002161567.1_          ---------------YRIRKVTTLQPKSCKMECR-I-TA---S-DCTPD-
+VEGFC2 Hydra vulgaris _XP002159836.1_          ---------------FRIRKVTTLQPKSCKMECR-I-KA---S-DCTPG-
+VEGFC3 Hydra vulgaris _XP012567141.1_          ----------------RNETLALKNHTSCQCQCA-Y-NS---S-ACT-KY
+PDGFB Hydra vulgaris _XP002160342.2_           --------------------------------------------------
+VEGFC Homo sapiens                              -------------QGPKPVTISFANHTSCRCMSK----LDVYR-QVHSII
+VEGFA165 Homo sapiens                           -----PH------QGQHIGEMSFLQHNKCECRPK-K--D---R--ARQEN
+PDGFB Homo sapiens                              -------------PIFKKATVTLEDHLACKCETV-A-AAR--P-VT-RS-
+PDGFC Homo sapiens                              GVR---------GLHKSLTDVALEHHEECDCVCR-G-ST---G-G-----
+PVF2 Drosophila melanogaster _Q9VM43_          ---------------NEPIVISMENHTECGCVKVETRRK------RSP--
+PVF1 Drosophila melanogaster _Q9VWP6_          R--------------RPFTIITVEQHTQCRCDCR-T-KA---E-------
+PVF3 Drosophila melanogaster _Q9VM42_          ---------------SVIEKRTFVNHTECHCIER-S-TY---NEETAMAH
+VEGFD Homo sapiens _O43915_                    -------------SVPELVPVKVANHTGCKCLPT----AP--R-HPYSII
+VEGFB17 Homo sapiens _P497652_                 ------Y------PSSQLGEMSLEEHSQCECRPK-K-KD---S-AVKPDS
+PlGF3 Homo sapiens _P49763_                    -----SG------DRPSYVELTFSQHVRCECRHS-P--G---R--QSPD-
+PDGFD Homo sapiens _Q9GZP0_                    RGR---------AKTMALVDIQLDHHERCDCICS-S-RP---P-R-----
+PDGFA Homo sapiens _P04085_                    -------------PKLKEVQVRLEEHLECACATT-S-LNP--D-YR-EE-
+PVF1 Caenorhabditis elegans _Q9N413_           F--------------NMTKEITMEEHTSCSCFDCG---S---N-TPQCAP
+UNC129 Caenorhabditis elegans _G5EBY8_         -------------------EPVCCAPTNLKSLNFWYRDE---K-GRTVI-
+                                                                                                    
+
+BMA-PVF-1                                         -KKIVGP----------------------DCKCEC
+VEGF Podocoryna carnea _AAS79435.1_            -QTH---------------------DA-NSCKCQC
+VEGFC1 Pocillopora damicornis _XP027059384.1_  -EE-WKP--------------------D-LCQCQC
+VEGFC2 Pocillopora damicornis _XP027050375.1_  -QT-WNE--------------------N-TCGCDC
+VEGFC Acropora digitifera _XP015760784.1_      -QQ-FDI--------------------A-DCSCKC
+VEGFC Exaiptasia pallida _XP020907748.1_       -ED-WKQ--------------------D-QCLCNC
+VEGFC1 Stylophora pistillata _XP022805345.1_   -HN-FTQ--------------------D-QCKCKC
+VEGFC2 Stylophora pistillata _XP022805359.1_   -QT-WNQ--------------------D-TCGCDC
+VEGFC1 Hydra vulgaris _XP002161567.1_          -QVY---------------------DP-NSCTCSC
+VEGFC2 Hydra vulgaris _XP002159836.1_          -QVY---------------------DP-NSCTCSC
+VEGFC3 Hydra vulgaris _XP012567141.1_          -QK----------------------WDAEKCKCVC
+PDGFB Hydra vulgaris _XP002160342.2_           -----------------------------------
+VEGFC Homo sapiens                              -RRSLPA-TLPQCQAANKTCPTNYMWNNHICRCLA
+VEGFA165 Homo sapiens                           PCG-PCS--------------------E--RRKHL
+PDGFB Homo sapiens                              --PGGSQ------------------E-----QR--
+PDGFC Homo sapiens                              -----------------------------------
+PVF2 Drosophila melanogaster _Q9VM43_          ------I-------------------------CLC
+PVF1 Drosophila melanogaster _Q9VWP6_          --------------DCNVY-QSYR-K-D-LCRCEC
+PVF3 Drosophila melanogaster _Q9VM42_          -YGQSVVRATILSCTCPKSFEKILQDDG-QCRCDC
+VEGFD Homo sapiens _O43915_                    -RRSIQIPEEDRCSHSKKLCPIDMLWDSNKCKCVL
+VEGFB17 Homo sapiens _P497652_                 PRP-LCP--------------------R--CTQHH
+PlGF3 Homo sapiens _P49763_                    -------------------------------MPGD
+PDGFD Homo sapiens _Q9GZP0_                    -----------------------------------
+PDGFA Homo sapiens _P04085_                    -DTGRPR------------------E-----SGKK
+PVF1 Caenorhabditis elegans _Q9N413_           -GFVVGR----------------------SCTCEC
+UNC129 Caenorhabditis elegans _G5EBY8_         -RNYSKM--------------------L-IGSCSC
+                                                                                     
+
+
+

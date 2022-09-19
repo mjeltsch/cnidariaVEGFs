@@ -1,0 +1,73 @@
+(
+(
+(
+(
+(
+BMA-PVF-1:0.12034,
+PVF1 Caenorhabditis elegans _Q9N413_:0.11966)
+:0.02716,
+(
+PVF2 Drosophila melanogaster _Q9VM43_:0.14358,
+UNC129 Caenorhabditis elegans _G5EBY8_:0.14642)
+:0.00284)
+:0.00068,
+(
+PVF1 Drosophila melanogaster _Q9VWP6_:0.13777,
+PVF3 Drosophila melanogaster _Q9VM42_:0.14223)
+:0.00682)
+:0.00062,
+(
+(
+PDGFC Homo sapiens:0.13013,
+PDGFD Homo sapiens _Q9GZP0_:0.12987)
+:0.01718,
+(
+VEGFC1 Stylophora pistillata _XP022805345.1_:0.14021,
+(
+VEGFC2 Pocillopora damicornis _XP027050375.1_:0.08543,
+VEGFC2 Stylophora pistillata _XP022805359.1_:0.08457)
+:0.05479)
+:0.00657)
+:0.00063)
+:0.00032,
+(
+(
+(
+(
+PDGFA Homo sapiens _P04085_:0.14072,
+(
+PDGFB Homo sapiens:0.13236,
+PDGFB Hydra vulgaris _XP002160342.2_:0.13764)
+:0.00428)
+:0.00273,
+(
+VEGFC Homo sapiens:0.11917,
+VEGFD Homo sapiens _O43915_:0.12083)
+:0.02227)
+:0.00273,
+VEGFC3 Hydra vulgaris _XP012567141.1_:0.14852)
+:0.00205,
+(
+(
+VEGFC1 Hydra vulgaris _XP002161567.1_:0.03083,
+VEGFC2 Hydra vulgaris _XP002159836.1_:0.02917)
+:0.11742,
+VEGF Podocoryna carnea _AAS79435.1_:0.14758)
+:0.00202)
+:0.00079,
+(
+(
+(
+(
+PlGF3 Homo sapiens _P49763_:0.12575,
+VEGFA165 Homo sapiens:0.12425)
+:0.01390,
+VEGFB17 Homo sapiens _P497652_:0.13610)
+:0.00597,
+VEGFC Acropora digitifera _XP015760784.1_:0.14403)
+:0.00163,
+(
+VEGFC1 Pocillopora damicornis _XP027059384.1_:0.14000,
+VEGFC Exaiptasia pallida _XP020907748.1_:0.14000)
+:0.00587)
+:0.00202);

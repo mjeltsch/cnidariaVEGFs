@@ -1,0 +1,81 @@
+26   179
+BMA-PVF-1                       TADVSSLAIL RTIRQGEDTC E-LQKACIPI LPENPD-PGL --LIFPKCYE ITQCI---GS
+VEGF Podocoryna carnea _AAS  AIASDPSAGT APLLFTEYKC Q-PREAVVEI PVSSE----G --ALWPACTV MKQCG---GC
+VEGFC1 Pocillopora damicorni  ---------- ----LGNELC R-PRPTLVPI DD----P-EF --KFFPYFVK LHQCG---GS
+VEGFC2 Pocillopora damicorni  NGVITTQLNN LPYIPSESHC K-PRPVAFRI PKSV----HV --RTYPDYVI LNRCTG---S
+VEGFC Acropora digitifera _  IQASLHGSSG GCHPVLSAHC S-PRPTYVRL PDPPF---GK --SYFPKGVL IDQCS---GF
+VEGFC Exaiptasia pallida _X  TFYAYVNCIA HSFDSSHAMC K-PRLTVLQV DKE-FSE-KE --YVYPYHIQ VHQCG---GS
+VEGFC1 Stylophora pistillata  TTKWNPTKPT HTLSFYRFEC R-PFPTMVEL ERPA----NE --DYLPHTVV LHRCLG---G
+VEGFC2 Stylophora pistillata  KGVITTKLNN PAYYPREAIC Q-PRPVAVRI PKGP----HV --RSFPDYVI LNRCTG---S
+VEGFC1 Hydra vulgaris _XP00  PKPGQSLDSS VSVEFTEYEC A-IRPRVVDV DFVPG----Y --FTFPACIQ VNECS---GC
+VEGFC2 Hydra vulgaris _XP00  PKPGQSLDSS TSVEFTEYEC A-IRPRIVDV DFVPG----Y --FTFPACIQ VNECS---GC
+VEGFC3 Hydra vulgaris _XP01  ---------E DVISLPNEEC D-IRPMLINT DALNYK---- ---YYPLVVS LYRCS---GV
+PDGFB Hydra vulgaris _XP002  ESRESYMLGG LNAANDSPSC Q-LMQKFEQI SKSKTD---- SFIFFPSCIK VNRCS---GC
+VEGFC Homo sapiens            AHYNTEILKS IDNEWRKTQC M-PREVCIDV GKEFGVATNT --FFKPPCVS VYRCG---GC
+VEGFA165 Homo sapiens         GGQNHHEVVK FMDVYQRSYC H-PIETLVDI FQEYPDEIEY --IFKPSCVP LMRCG---GC
+PDGFB Homo sapiens            RGRRSLGSLT IAEPAMIAEC K-TRTEVFEI SRRLIDRTNA NFLVWPPCVE VQRCS---GC
+PDGFC Homo sapiens            RKSRVVDLNL LTEEVRLYSC T-PRNFSVSI REEL-KRTDT --IFWPGCLL VKRCGG---N
+PVF2 Drosophila melanogaster  RELKKRVEAH RLMMAKEGIC RVPRPEVVHI TRE----TNT --FYSPRATI LHRCSDKVGC
+PVF1 Drosophila melanogaster  ENFKRSIMKS TVRNATPASC S-PQPTIVEL KPPAEDEANY --YYMPACTR ISRCN---GC
+PVF3 Drosophila melanogaster  KSERALAHAH MNQVLKEATC RIPQKRCQLV QQD----PSK --IYTPHCTI LHRCSEDSGC
+VEGFD Homo sapiens _O43915_  TFYDIETLKV IDEEWQRTQC S-PRETCVEV ASELGKSTNT --FFKPPCVN VFRCG---GC
+VEGFB17 Homo sapiens _P4976  APGHQRKVVS WIDVYTRATC Q-PREVVVPL TVELMGTVAK --QLVPSCVT VQRCG---GC
+PlGF3 Homo sapiens _P49763_  NGSSEVEVVP FQEVWGRSYC R-ALERLVDV VSEYPSEVEH --MFSPSCVS LLRCT---GC
+PDGFD Homo sapiens _Q9GZP0_  RKSK-VDLDR LNDDAKRYSC T-PRNYSVNI REEL-KLANV --VFFPRCLL VQRCGG---N
+PDGFA Homo sapiens _P04085_  KRPLPIRRKR SIEEAVPAVC K-TRTVIYEI PRSQVDPTSA NFLIWPPCVE VKRCT---GC
+PVF1 Caenorhabditis elegans�  GYTLFHLQSM KDIKQGNDTC N-LQSVCVPI PQLSDD-PQV --LMYPKCYE VKQCV---GS
+UNC129 Caenorhabditis elegan  ANEELANDVR VVLLQNKNRC H-KEGVLVSL KHFG-W-DRY --VIEPKTIE TSFCK---GK
+
+                                CC-----EFT EHCHPTSTEY IQQPIIEMLY AGNNL----- ----F---VI NQTR--NITV
+                                CT----HLQF KECVPTVLEN IKATVMMIPY DYT------- ---------R PKLH--TVSF
+                                CDH--IQPSV KSCIPLEYDE VSVTVQVVGT ---------- ---------- DEMR--TTQV
+                                CT---ANQET QHCAVTAQDA INVKIFEIVG DQ-------- ---------- PYIT--NTVI
+                                CFY-----EG LTCLGVAFRN VTKDIFEITW SDRNYGMSGS IAASAGLEMT SIPK--QIVL
+                                CK---AHPSI QNCKPKTMHE VKIPLYDRKT ---------- ---------- SLMT--HVII
+                                CV---TTQQV QNCTVKRQEE VVLQVLHRLD HN-------- --------KV FKPL--KITV
+                                CP---FNQEI EHCTVTERDA ITVTIFELVG NQ-------- ---------- VHVV--NTVL
+                                TT----KSLI YKCVPDEQVN VTANVVDIDY SGG------- ---------- YRIR--KVTT
+                                TT----KSLI YKCVPDEQVN VIANVVDIDY SGG------- ---------- FRIR--KVTT
+                                CKK--EKPSF RKCVSAVSTD IQLHVFNELL ER-------- ---------- --NE--TLAL
+                                CNT-----DV MECVALTNSS HV-------- ---------- ---------- ----------
+                                CNS-----EG LQCMNTSTSY LSKTLFEITV P-LS------ --------QG PKPV--TISF
+                                CND-----EG LECVPTEESN ITMQIMRIKP ---------- -------HQG QHIG--EMSF
+                                CNN-----RN VQCRPTQVQL RPVQVRKIEI VRKK------ --------PI FKKA--TVTL
+                                CACCLHNCNE CQCVPSKVTK KYHEVLQLRP K---T----- ----GVRGLH KSLT--DVAL
+                                CN------AG WTCQMKRNET VDRVFDKVDG RSN------- ---------- EPI---VISM
+                                CG-----STL ISCQPTEVEQ VQLRVRKVDR AATSG----- ---------R RPFT--IITV
+                                CP-----SRS QICAAKSTHN VELHFFVKSS KHR------- ---------- SVIE--KRTF
+                                CNE-----ES LICMNTSTSY ISKQLFEISV P-LT------ --------SV PELV--PVKV
+                                CPD-----DG LECVPTGQHQ VRMQILMIR- ---------- -------YPS SQLG--EMSL
+                                CGD-----EN LHCVPVETAN VTMQLLKIRS ---------- -------GDR PSYV--ELTF
+                                CGCGTVNWRS CTCNSGKTVK KYHEVLQFEP GHIKR----- ----RGRAKT MALV--DIQL
+                                CNT-----SS VKCQPSRVHH RSVKVAKVEY VRKK------ --------PK LKEV--QVRL
+                                CC-----NSV ETCHPGTINL VKKHVAELLY IGNGR----- ----F---MF NMTK--EITM
+                                CA-----KPM LTSGKASNHA MLQSLFAAEP VCC------- ---------- APTNLKSLNF
+
+                                EQHTACSCRI ---------- -----CTRF- -GAA--IQCP Q-KKI-V--G P--DCKCEC
+                                VQHKECACQC RLKPT----- ---------- ---D--CNPK --QTH-D--A N--SCKCQC
+                                KNHTRCGCEC VHGPK----- ---------- ---D--CDLE L-EEW-K--P D--LCQCQC
+                                YNHTACGCDC ITKES----- ---------- ---D--CDPQ K-QTW-N--E N--TCGCDC
+                                KEPTQCQCGC AKTAN----- ---------- ---D--CTSA --QQF-D--I A--DCSCKC
+                                QNHTSCYCDC VKSPM----- ---------- ---D--CRFD R-EDW-K--Q D--QCLCNC
+                                YNHTECACDC ITRQS----- ---------- ---E--CDVK I-HNF-T--Q D--QCKCKC
+                                YNHTACSCDC IAKES----- ---------- ---D--CDPN K-QTW-N--Q D--TCGCDC
+                                LQPKSCKMEC RITAS----- ---------- ---D--CTPD --QVY-D--P N--SCTCSC
+                                LQPKSCKMEC RIKAS----- ---------- ---D--CTPG --QVY-D--P N--SCTCSC
+                                KNHTSCQCQC AYNSS----- ---------- ---A--CTKY --QKW-D--A E--KCKCVC
+                                ---------- ---------- ---------- ---------- ---------- ---------
+                                ANHTSCRCMS K--LD----- ---------- ---V--YRQV --HSI-I--R R---SLPAT
+                                LQHNKCECRP KKDR------ ---------- ------ARQE NPCGP-C--S ---ERRKHL
+                                EDHLACKCET VAAAR----- ---------- ---P--VTR- --SPG-G--S Q---EQR--
+                                EHHEECDCVC RGST------ ---------- ---------- ---------- ------GG-
+                                ENHTECGC-- ---------- ---------- --------VK V--ETRR--K RSPICL--C
+                                EQHTQCRCDC RTKAE----- ---------- -----DCNV- Y-QSY-R--K D--LCRCEC
+                                VNHTECHCIE RSTYNEETAM AHYGQSVVRA TILSCTCPKS F-EKI-LQDD G--QCRCDC
+                                ANHTGCKCLP T--AP----- ---------- ---R--H--P --YSI-I--R R---SIQIP
+                                EEHSQCECRP KKKDS----- ---------- ---A--VKPD SPRPL-C--P ---RCTQHH
+                                SQHVRCECRH SPGR------ ---------- ------QSPD ---------- -----MPGD
+                                DHHERCDCIC SSRP------ ---------- ---------- ---------- ------PR-
+                                EEHLECACAT TSLNP----- ---------- ---D--YREE --DTG-R--P R---ESGKK
+                                EEHTSCSCFD ---------- -----CG--- -SNT--PQCA P-GFV-V--G R--SCTCEC
+                                WYRDEKGR-- ---------- -----T---- ------VIRN Y-SKM-L--I G--SCS--C
